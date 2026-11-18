@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧹 Discord Deep Cleaner (CL)
+# 🧹 Discord  Clear by takeown (CL)
 
 **Limpeza automatizada e inteligente de Direct Messages no Discord.**
 
